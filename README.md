@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @10hecone
 - 👀 I'm interested in lua/javascript and html/css
-- 🌱 I am currently learning glua/C#
+- 🌱 I am currently learning javascript
 - 💞️ I am looking to collaborate with no one at the moment.
 - 📫 How to reach me :
 
