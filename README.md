@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm @10hecone</h1>
 <h3 align="center">A passionate JavaScript developer from France</h3>
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+javascript;coffe+addict;js+for+life">
+</p>
+
 - 🔭 I’m currently working on [Numr](https://github.com/10hecone/Numr)
 
 - 🌱 I’m currently learning **lua/javascript**
