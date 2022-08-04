@@ -17,7 +17,7 @@ Actualy :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10hecone&theme=dracula)
 
 
-<h3>📊 Github Stats: </h3>
+<h3>📊Github Stats: </h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=10hecone&show_icons=true&theme=dracula"/>
 </a>
