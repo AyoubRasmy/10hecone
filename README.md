@@ -18,7 +18,7 @@ Actualy :
 
 
 <h3>📊Github Stats: </h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=10hecone&show_icons=true&theme=dracula"/>
 </a>
 
