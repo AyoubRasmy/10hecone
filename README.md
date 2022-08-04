@@ -5,6 +5,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?duration=2000&color=EBD41B&center=true&vCenter=true&lines=developer+javascript;coffe+addict;js+for+life">
 </p>
 
+```mermaid
+  graph TD;
+    Code --> Eat;
+    Eat --> Sleep;
+    Sleep --> Code;
+```
+
 - 🔭 I’m currently working on [Numr](https://github.com/10hecone/Numr)
 
 - 🌱 I’m currently learning **lua/javascript**
