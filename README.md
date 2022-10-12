@@ -6,9 +6,9 @@
 
 Actualy :
 
-- 🔭 I’m currently working on [Numr](https://github.com/10hecone/Numr)
+- 🌱 I mastered JS/Lua/TS/Java ****
 
-- 🌱 I’m currently learning **lua/javascript**
+- 🌱 I’m currently learning C#, C, ASM****
 
 - 📫 How to reach me **Hecone#2675**
 
