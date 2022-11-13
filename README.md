@@ -6,9 +6,9 @@
 
 Actualy :
 
-- 🌱 I mastered JS/TS/Lua****
+- 🌱 I mastered **JS/TS/Lua**
 
-- 🌱 I’m currently learning C#, Java****
+- 🌱 I’m currently learning **C#, Java**
 
 - 📫 How to reach me **Hecone#2675**
 
